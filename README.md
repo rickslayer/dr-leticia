@@ -1,5 +1,4 @@
 # dr-leticia
-<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -23,6 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-A Vue.js site
->>>>>>> 6597a189a4008a4b21c79d304d414e85fc812f11
